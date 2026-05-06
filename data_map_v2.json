@@ -1,0 +1,1738 @@
+[
+  {
+    "food_name": "Kesar Ghewar Big",
+    "filename": "kesar_ghewar_big.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/0vkaj1lvt5gr.png",
+    "product_url": "https://angansweets.com/products/37f528aa-da81-4a6e-8b63-4ee3f3b755a9",
+    "converted_filename": "kesar_ghewar_big.webp"
+  },
+  {
+    "food_name": "Gondh Laddu",
+    "filename": "gondh_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ti90b0uj76b.png",
+    "product_url": "https://angansweets.com/products/b81f25a4-9536-4088-a62e-0459a5950e70",
+    "converted_filename": "gondh_laddu.webp"
+  },
+  {
+    "food_name": "Milk Cake",
+    "filename": "milk_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/a191rhf478f.png",
+    "product_url": "https://angansweets.com/products/42f3c4ee-4ac6-4557-995d-373b148825e9",
+    "converted_filename": "milk_cake.webp"
+  },
+  {
+    "food_name": "Sugarfree Kaju Barfi",
+    "filename": "sugarfree_kaju_barfi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/x6hgcvocgo.png",
+    "product_url": "https://angansweets.com/products/919eecc7-5e4c-4722-a850-9b0694e8d5ed",
+    "converted_filename": "sugarfree_kaju_barfi.webp"
+  },
+  {
+    "food_name": "Soan Papdi 400gm",
+    "filename": "soan_papdi_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/rzgr8cqsyz.png",
+    "product_url": "https://angansweets.com/products/0fad67b7-f2a5-498f-9065-0ee6fa6b9cb8",
+    "converted_filename": "soan_papdi_400gm.webp"
+  },
+  {
+    "food_name": "Rasbhari",
+    "filename": "rasbhari.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/69hyyeq6nd.png",
+    "product_url": "https://angansweets.com/products/3d45045c-af32-4849-8ff6-98ec76a52506",
+    "converted_filename": "rasbhari.webp"
+  },
+  {
+    "food_name": "Malai Ghewar Small",
+    "filename": "malai_ghewar_small.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/o6e8qnct34a.png",
+    "product_url": "https://angansweets.com/products/e88657db-feea-4f89-9c0f-6873727f9bb3",
+    "converted_filename": "malai_ghewar_small.webp"
+  },
+  {
+    "food_name": "Gund Pak 400gm",
+    "filename": "gund_pak_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/2pycc8l5fqz.png",
+    "product_url": "https://angansweets.com/products/85548003-b570-42d0-85e5-784d5e50c457",
+    "converted_filename": "gund_pak_400gm.webp"
+  },
+  {
+    "food_name": "Khoya Barfi",
+    "filename": "khoya_barfi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/086ay9z0ydcr.png",
+    "product_url": "https://angansweets.com/products/35a7ae03-103c-46aa-a5b5-45d1935517b1",
+    "converted_filename": "khoya_barfi.webp"
+  },
+  {
+    "food_name": "Chocolate Barfi",
+    "filename": "chocolate_barfi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/lmpq1j2ixvn.png",
+    "product_url": "https://angansweets.com/products/baf196cc-3597-4687-a810-ad9c5021d088",
+    "converted_filename": "chocolate_barfi.webp"
+  },
+  {
+    "food_name": "Dhoda Barfi",
+    "filename": "dhoda_barfi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hitmdwke3j.png",
+    "product_url": "https://angansweets.com/products/afc20767-766c-47a4-8bf6-53af030d5d94",
+    "converted_filename": "dhoda_barfi.webp"
+  },
+  {
+    "food_name": "Kaju Katli",
+    "filename": "kaju_katli.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/h2ts19ok3y.png",
+    "product_url": "https://angansweets.com/products/3d82b0ed-c6f1-4676-8d89-9c8cd675e4e0",
+    "converted_filename": "kaju_katli.webp"
+  },
+  {
+    "food_name": "Mota Boondi Laddu",
+    "filename": "mota_boondi_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/mkk5xjyal1t.png",
+    "product_url": "https://angansweets.com/products/fa0fe04c-a853-463f-a727-69333aeb8cbb",
+    "converted_filename": "mota_boondi_laddu.webp"
+  },
+  {
+    "food_name": "Soan Papdi 200gm",
+    "filename": "soan_papdi_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/bhvnzr2d3j.png",
+    "product_url": "https://angansweets.com/products/97a48463-ec40-4192-9aeb-ec3519edfe3c",
+    "converted_filename": "soan_papdi_200gm.webp"
+  },
+  {
+    "food_name": "Soan Haluwa 4pc",
+    "filename": "soan_haluwa_4pc.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/duir61dqbc.png",
+    "product_url": "https://angansweets.com/products/6e980df7-6671-4170-8a53-42dbe054f640",
+    "converted_filename": "soan_haluwa_4pc.webp"
+  },
+  {
+    "food_name": "Lal Mohan",
+    "filename": "lal_mohan.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/yftdgo7w8z.png",
+    "product_url": "https://angansweets.com/products/0e799e84-5fe8-4f9e-9122-ff88f2d5e2b3",
+    "converted_filename": "lal_mohan.webp"
+  },
+  {
+    "food_name": "Kesar Ghewar Small",
+    "filename": "kesar_ghewar_small.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/atuvojlf1es.png",
+    "product_url": "https://angansweets.com/products/0f6bd004-337c-4865-b83c-32f488b55bb0",
+    "converted_filename": "kesar_ghewar_small.webp"
+  },
+  {
+    "food_name": "Kalakand",
+    "filename": "kalakand.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/sb4cprqkpro.png",
+    "product_url": "https://angansweets.com/products/cd8cd2b9-49e1-4217-8916-2cf2537cf88e",
+    "converted_filename": "kalakand.webp"
+  },
+  {
+    "food_name": "Mathura Peda",
+    "filename": "mathura_peda.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/3aeobsh5umo.png",
+    "product_url": "https://angansweets.com/products/bc3a20aa-8c0d-4d93-91a8-0cf75a30020f",
+    "converted_filename": "mathura_peda.webp"
+  },
+  {
+    "food_name": "Chandrakala",
+    "filename": "chandrakala.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5897lzrpzp.png",
+    "product_url": "https://angansweets.com/products/90ff97ed-f833-41e9-83bd-a72c7e54412c",
+    "converted_filename": "chandrakala.webp"
+  },
+  {
+    "food_name": "Malai Ghewar Big",
+    "filename": "malai_ghewar_big.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/j6br2oi443e.png",
+    "product_url": "https://angansweets.com/products/cf5defe4-7c88-4d44-9703-1f6046fd3392",
+    "converted_filename": "malai_ghewar_big.webp"
+  },
+  {
+    "food_name": "Kanpuri Laddu",
+    "filename": "kanpuri_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/bkmg4pf24f.png",
+    "product_url": "https://angansweets.com/products/4550defb-11ae-41e3-a157-c891ad626b0e",
+    "converted_filename": "kanpuri_laddu.webp"
+  },
+  {
+    "food_name": "Karachi Halwa",
+    "filename": "karachi_halwa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/zhkx3kq4mts.png",
+    "product_url": "https://angansweets.com/products/a3d5a552-d2e2-4f84-9bdc-41fa48958aaa",
+    "converted_filename": "karachi_halwa.webp"
+  },
+  {
+    "food_name": "Besan laddu",
+    "filename": "besan_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/l4a2a48eue.png",
+    "product_url": "https://angansweets.com/products/2792e5e1-70e1-4a99-abe1-ac0bb2634683",
+    "converted_filename": "besan_laddu.webp"
+  },
+  {
+    "food_name": "Kaju Roll",
+    "filename": "kaju_roll.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9xioddldis.png",
+    "product_url": "https://angansweets.com/products/26757e78-647a-4975-b54c-18b5dc827188",
+    "converted_filename": "kaju_roll.webp"
+  },
+  {
+    "food_name": "Sugar free laddu",
+    "filename": "sugar_free_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/fjck5ts36m.png",
+    "product_url": "https://angansweets.com/products/effa92e7-4578-4837-b13f-a5553830c65e",
+    "converted_filename": "sugar_free_laddu.webp"
+  },
+  {
+    "food_name": "Jalebi(jerry)",
+    "filename": "jalebijerry.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/s3by4y5tmk.png",
+    "product_url": "https://angansweets.com/products/542cd1d8-e97f-4670-8cd0-63032c432cdb",
+    "converted_filename": "jalebijerry.webp"
+  },
+  {
+    "food_name": "Moongdal Halwa",
+    "filename": "moongdal_halwa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tk4n208ycp.png",
+    "product_url": "https://angansweets.com/products/f473f312-95cf-4a2f-a92e-3df4ecf809f5",
+    "converted_filename": "moongdal_halwa.webp"
+  },
+  {
+    "food_name": "White Peda",
+    "filename": "white_peda.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/d14h2ji3kt.png",
+    "product_url": "https://angansweets.com/products/ac5729d6-a762-4cbc-9c4c-c7efbf8baef5",
+    "converted_filename": "white_peda.webp"
+  },
+  {
+    "food_name": "Mini Lalmohan",
+    "filename": "mini_lalmohan.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/uhrpm4p6ox.png",
+    "product_url": "https://angansweets.com/products/2f8362ef-8b0d-4818-a1a8-7ce817203901",
+    "converted_filename": "mini_lalmohan.webp"
+  },
+  {
+    "food_name": "Boondiya",
+    "filename": "boondiya.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/naz2le6n7d.png",
+    "product_url": "https://angansweets.com/products/30edf946-87b7-41d5-9b09-0cb0852f3bb5",
+    "converted_filename": "boondiya.webp"
+  },
+  {
+    "food_name": "Cham Cham",
+    "filename": "cham_cham.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ql4dgv9gfwj.png",
+    "product_url": "https://angansweets.com/products/e3b16a23-71ef-4a7a-a563-2160561897b0",
+    "converted_filename": "cham_cham.webp"
+  },
+  {
+    "food_name": "Mini Rasbhari",
+    "filename": "mini_rasbhari.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5688y4qrbwx.png",
+    "product_url": "https://angansweets.com/products/ae6b1775-1673-4b98-bcc7-9c510a97cc8e",
+    "converted_filename": "mini_rasbhari.webp"
+  },
+  {
+    "food_name": "Balu Shahi",
+    "filename": "balu_shahi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/pgw415fc35s.png",
+    "product_url": "https://angansweets.com/products/ee55a695-b99b-44ed-9a63-d04eb4d4c0c9",
+    "converted_filename": "balu_shahi.webp"
+  },
+  {
+    "food_name": "Gund Pak 200gm",
+    "filename": "gund_pak_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/4wwsgitzq4c.png",
+    "product_url": "https://angansweets.com/products/90930216-ebab-431e-b085-624b15bca38f",
+    "converted_filename": "gund_pak_200gm.webp"
+  },
+  {
+    "food_name": "Moongdal Barfi",
+    "filename": "moongdal_barfi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/fxuhhcq8vdp.png",
+    "product_url": "https://angansweets.com/products/cc6d746f-7ab3-4f16-a4b6-775009ddfd83",
+    "converted_filename": "moongdal_barfi.webp"
+  },
+  {
+    "food_name": "Rajasthani Peda",
+    "filename": "rajasthani_peda.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/j5u54kmv0np.png",
+    "product_url": "https://angansweets.com/products/e385dfe3-87c3-43d0-9fd6-2adc48568963",
+    "converted_filename": "rajasthani_peda.webp"
+  },
+  {
+    "food_name": "Rashmalai",
+    "filename": "rashmalai.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5zprvg74emp.png",
+    "product_url": "https://angansweets.com/products/54b590cd-449f-4c82-b338-0257bdd73270",
+    "converted_filename": "rashmalai.webp"
+  },
+  {
+    "food_name": "Kala Jamun",
+    "filename": "kala_jamun.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/6drra0uvihd.png",
+    "product_url": "https://angansweets.com/products/145c01b4-94e6-4fca-a017-4a873ba3a508",
+    "converted_filename": "kala_jamun.webp"
+  },
+  {
+    "food_name": "Anjeer Cake",
+    "filename": "anjeer_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ot8xt9sqjfp.png",
+    "product_url": "https://angansweets.com/products/f32f6039-053d-4d0a-a1bf-05928f8f79b7",
+    "converted_filename": "anjeer_cake.webp"
+  },
+  {
+    "food_name": "Gajar Halwa",
+    "filename": "gajar_halwa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/a8nicak4qkj.png",
+    "product_url": "https://angansweets.com/products/f53c1e12-3491-4f58-aa5d-3a84570aefdd",
+    "converted_filename": "gajar_halwa.webp"
+  },
+  {
+    "food_name": "Dil Khusar",
+    "filename": "dil_khusar.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/gfgeorhwsv.png",
+    "product_url": "https://angansweets.com/products/05f2c199-194f-4b1a-bca6-a04c78fd5693",
+    "converted_filename": "dil_khusar.webp"
+  },
+  {
+    "food_name": "Besan special laddu",
+    "filename": "besan_special_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/bnqde0t7dn.png",
+    "product_url": "https://angansweets.com/products/8bef4db5-873a-46ef-a71d-c88d29a14bde",
+    "converted_filename": "besan_special_laddu.webp"
+  },
+  {
+    "food_name": "Anjeer Chakki",
+    "filename": "anjeer_chakki.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9iuc3heag8t.png",
+    "product_url": "https://angansweets.com/products/f5972828-6ea0-49c0-9958-ca772403dcf5",
+    "converted_filename": "anjeer_chakki.webp"
+  },
+  {
+    "food_name": "Golden Mix Box",
+    "filename": "golden_mix_box.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ovx2a9eepr8.png",
+    "product_url": "https://angansweets.com/products/cf9d1816-6830-492e-98d4-b15d95158687",
+    "converted_filename": "golden_mix_box.webp"
+  },
+  {
+    "food_name": "Kaju Katli Barfi (1KG)",
+    "filename": "kaju_katli_barfi_1kg.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/6bfos1vwho.png",
+    "product_url": "https://angansweets.com/products/d9577e2a-fc26-4c55-944c-43b29b15800e",
+    "converted_filename": "kaju_katli_barfi_1kg.webp"
+  },
+  {
+    "food_name": "5 line Mix Box",
+    "filename": "5_line_mix_box.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/fbcgdyvmowk.png",
+    "product_url": "https://angansweets.com/products/7a8e977f-6355-4195-b30b-778dd09e5b51",
+    "converted_filename": "5_line_mix_box.webp"
+  },
+  {
+    "food_name": "3 Line Sugarless Sweet Box",
+    "filename": "3_line_sugarless_sweet_box.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9uf1xjoezo5.png",
+    "product_url": "https://angansweets.com/products/cc47879f-f9b7-4e1a-ac38-01f08dd66329",
+    "converted_filename": "3_line_sugarless_sweet_box.webp"
+  },
+  {
+    "food_name": "Mix Laddu 12 pc",
+    "filename": "mix_laddu_12_pc.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/h6a2jqubmk.jpg",
+    "product_url": "https://angansweets.com/products/b07af154-7fdf-4ca4-ad00-aea74047937d",
+    "converted_filename": "mix_laddu_12_pc.webp"
+  },
+  {
+    "food_name": "Kanpuri laddu",
+    "filename": "kanpuri_laddu.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5ro71y5mkhr.png",
+    "product_url": "https://angansweets.com/products/64f4ceda-4810-46e2-b61d-77c2bace6a5d",
+    "converted_filename": "kanpuri_laddu.webp"
+  },
+  {
+    "food_name": "Mix Laddu box 6 Pc",
+    "filename": "mix_laddu_box_6_pc.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hr24e4cvp1c.jpg",
+    "product_url": "https://angansweets.com/products/47995527-4123-45a4-8850-7538f2d1a275",
+    "converted_filename": "mix_laddu_box_6_pc.webp"
+  },
+  {
+    "food_name": "Handi(Lalmohan 10pcs)",
+    "filename": "handilalmohan_10pcs.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/c6kzdrtbtsq.png",
+    "product_url": "https://angansweets.com/products/a21ab85f-bcd6-4845-9859-7391bd96f33d",
+    "converted_filename": "handilalmohan_10pcs.webp"
+  },
+  {
+    "food_name": "Kaju Katli Barfi (500gm)",
+    "filename": "kaju_katli_barfi_500gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/0ubm3915ccsi.png",
+    "product_url": "https://angansweets.com/products/a9278682-9877-40d3-95d3-a0ecb9e1a078",
+    "converted_filename": "kaju_katli_barfi_500gm.webp"
+  },
+  {
+    "food_name": "Sugarless Box",
+    "filename": "sugarless_box.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/vi794hwzh3s.png",
+    "product_url": "https://angansweets.com/products/6aa1ca9d-6cef-4778-b4c2-a33172f3ed38",
+    "converted_filename": "sugarless_box.webp"
+  },
+  {
+    "food_name": "Handi(Rasmalai 10pcs)",
+    "filename": "handirasmalai_10pcs.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/zpj0nh6h2cj.png",
+    "product_url": "https://angansweets.com/products/033e74d5-0590-46ce-9438-9466a16ff164",
+    "converted_filename": "handirasmalai_10pcs.webp"
+  },
+  {
+    "food_name": "4 line Mix Square Box (Medium)",
+    "filename": "4_line_mix_square_box_medium.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/0xr7yfiqk5.png",
+    "product_url": "https://angansweets.com/products/b1128cc7-6787-44de-83f3-9dac4fc05dbe",
+    "converted_filename": "4_line_mix_square_box_medium.webp"
+  },
+  {
+    "food_name": "Kanpuri Laddu Half",
+    "filename": "kanpuri_laddu_half.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/35aw63k4jrg.png",
+    "product_url": "https://angansweets.com/products/5abbb843-a165-478e-832c-11bbd20e4856",
+    "converted_filename": "kanpuri_laddu_half.webp"
+  },
+  {
+    "food_name": "All Mix Sweet",
+    "filename": "all_mix_sweet.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/cu8v5i8gkh6.png",
+    "product_url": "https://angansweets.com/products/34fc4135-ae6a-4752-a221-8661c47b0164",
+    "converted_filename": "all_mix_sweet.webp"
+  },
+  {
+    "food_name": "4 line Assorted Sweet Box",
+    "filename": "4_line_assorted_sweet_box.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/xjmhta1wu6.png",
+    "product_url": "https://angansweets.com/products/1974c546-2bac-4d84-87c5-8f01e79888ba",
+    "converted_filename": "4_line_assorted_sweet_box.webp"
+  },
+  {
+    "food_name": "Handi(Rashbari 10pcs)",
+    "filename": "handirashbari_10pcs.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/wa6j4mq566c.png",
+    "product_url": "https://angansweets.com/products/a811ed5b-9aa8-498c-a8a7-3074a790e64d",
+    "converted_filename": "handirashbari_10pcs.webp"
+  },
+  {
+    "food_name": "Premium Mix Sweet (Big)",
+    "filename": "premium_mix_sweet_big.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/j4n06qmet68.png",
+    "product_url": "https://angansweets.com/products/a22e93c6-7b36-462c-ae91-ce82063e4dcc",
+    "converted_filename": "premium_mix_sweet_big.webp"
+  },
+  {
+    "food_name": "Kaju Katli Barfi (300gm)",
+    "filename": "kaju_katli_barfi_300gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5z8r0blie3l.png",
+    "product_url": "https://angansweets.com/products/9685c8c9-9495-491b-80ab-31d68decd9e1",
+    "converted_filename": "kaju_katli_barfi_300gm.webp"
+  },
+  {
+    "food_name": "3 Line Assorted Sweet Box",
+    "filename": "3_line_assorted_sweet_box.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/xts0sq6bvc.png",
+    "product_url": "https://angansweets.com/products/38acc38c-96de-4121-a748-c9ee479b827b",
+    "converted_filename": "3_line_assorted_sweet_box.webp"
+  },
+  {
+    "food_name": "Premium Mix Sweet (Small)",
+    "filename": "premium_mix_sweet_small.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/217ux03s7zqj.png",
+    "product_url": "https://angansweets.com/products/d3a2ba79-0b91-4769-af1d-56ab13df4503",
+    "converted_filename": "premium_mix_sweet_small.webp"
+  },
+  {
+    "food_name": "4 Chamber Royal Chest(Bronze)",
+    "filename": "4_chamber_royal_chestbronze.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/q2v81ouog7g.jpg",
+    "product_url": "https://angansweets.com/products/9cb543f1-5a3a-4daa-9b95-aa847f430ea6",
+    "converted_filename": "4_chamber_royal_chestbronze.webp"
+  },
+  {
+    "food_name": "2 Jar Jaipuria Box (Maroon)",
+    "filename": "2_jar_jaipuria_box_maroon.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/c81vb27jdg8.jpg",
+    "product_url": "https://angansweets.com/products/192ca049-a602-4aca-b73c-6893a9694b81",
+    "converted_filename": "2_jar_jaipuria_box_maroon.webp"
+  },
+  {
+    "food_name": "Classic 4 Khana Golden Box",
+    "filename": "classic_4_khana_golden_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tv9pmavdm9k.jpg",
+    "product_url": "https://angansweets.com/products/57fabb31-d7d7-4f29-8192-54588ea2c2b3",
+    "converted_filename": "classic_4_khana_golden_box.webp"
+  },
+  {
+    "food_name": "4 Chamber Royal Chest(Silver)",
+    "filename": "4_chamber_royal_chestsilver.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ekxm0hgm7pb.jpg",
+    "product_url": "https://angansweets.com/products/9c24b4b4-2953-4676-be5a-1a4ea441df2c",
+    "converted_filename": "4_chamber_royal_chestsilver.webp"
+  },
+  {
+    "food_name": "Timeless Royal Square Box",
+    "filename": "timeless_royal_square_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/a9a7t0ghelm.jpg",
+    "product_url": "https://angansweets.com/products/f76894a4-ce4e-4159-a7dc-9615f17e86a7",
+    "converted_filename": "timeless_royal_square_box.webp"
+  },
+  {
+    "food_name": "3 Jar Jaipuria Box (Navy)",
+    "filename": "3_jar_jaipuria_box_navy.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/vrmc0dk8qc.jpg",
+    "product_url": "https://angansweets.com/products/5c1f6d40-3142-4d7f-993d-197b67bf85f7",
+    "converted_filename": "3_jar_jaipuria_box_navy.webp"
+  },
+  {
+    "food_name": "Peacock Chest 3 Jar(Pink)",
+    "filename": "peacock_chest_3_jarpink.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7miu6o1r6ue.jpg",
+    "product_url": "https://angansweets.com/products/7116d099-cf76-4408-930f-fb9ee1c916dd",
+    "converted_filename": "peacock_chest_3_jarpink.webp"
+  },
+  {
+    "food_name": "Royal Metallic 3 Jar Box",
+    "filename": "royal_metallic_3_jar_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f3wgbfc9jl4.jpg",
+    "product_url": "https://angansweets.com/products/2b6bbe5a-6847-4861-bf78-b179a72e880e",
+    "converted_filename": "royal_metallic_3_jar_box.webp"
+  },
+  {
+    "food_name": "Square Dry Fruits Platter Silver",
+    "filename": "square_dry_fruits_platter_silver.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ilfkcapsrf.jpg",
+    "product_url": "https://angansweets.com/products/7512a4c8-ff88-4626-8afc-7f2fcd71e5d6",
+    "converted_filename": "square_dry_fruits_platter_silver.webp"
+  },
+  {
+    "food_name": "Peacock Square Box",
+    "filename": "peacock_square_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tcylpazbnc.jpg",
+    "product_url": "https://angansweets.com/products/f10506f6-b443-4465-8c7f-dd1938eb89ab",
+    "converted_filename": "peacock_square_box.webp"
+  },
+  {
+    "food_name": "Red Velvet 4 Jar Box",
+    "filename": "red_velvet_4_jar_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/vqyzif0skqf.jpg",
+    "product_url": "https://angansweets.com/products/5f3c6b15-d011-4fae-9e30-6c32c6eee654",
+    "converted_filename": "red_velvet_4_jar_box.webp"
+  },
+  {
+    "food_name": "Golden Chest 3 Jar",
+    "filename": "golden_chest_3_jar.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tguxrvfp6v8.jpg",
+    "product_url": "https://angansweets.com/products/7ca4aa9f-eb06-47dd-abd7-d39605476251",
+    "converted_filename": "golden_chest_3_jar.webp"
+  },
+  {
+    "food_name": "Sweets And Nuts Circle (Navy)",
+    "filename": "sweets_and_nuts_circle_navy.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/gwrv9mh9rrg.jpg",
+    "product_url": "https://angansweets.com/products/cb1c0784-eafe-4356-aeda-02bd010c04f9",
+    "converted_filename": "sweets_and_nuts_circle_navy.webp"
+  },
+  {
+    "food_name": "3 Jar Jaipuria Box (Sky Blue)",
+    "filename": "3_jar_jaipuria_box_sky_blue.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/cnvi0zaykl.jpg",
+    "product_url": "https://angansweets.com/products/aa6e3fb9-95a9-4ce5-927f-d4e466dc9fe4",
+    "converted_filename": "3_jar_jaipuria_box_sky_blue.webp"
+  },
+  {
+    "food_name": "Classic Red Dry Fruits Box",
+    "filename": "classic_red_dry_fruits_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/567erfwtxi4.jpg",
+    "product_url": "https://angansweets.com/products/2335c80c-453a-4468-be9f-c7bb9182ac2d",
+    "converted_filename": "classic_red_dry_fruits_box.webp"
+  },
+  {
+    "food_name": "4 Khana Royal Thali",
+    "filename": "4_khana_royal_thali.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ti6slsrz9o.jpg",
+    "product_url": "https://angansweets.com/products/d313c01b-8120-4ae6-813d-32c70bc11553",
+    "converted_filename": "4_khana_royal_thali.webp"
+  },
+  {
+    "food_name": "Peacock Chest 3 Jar(Blue)",
+    "filename": "peacock_chest_3_jarblue.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f6fe0piloml.jpg",
+    "product_url": "https://angansweets.com/products/a2174262-5504-4e06-bedc-2b660649fc8d",
+    "converted_filename": "peacock_chest_3_jarblue.webp"
+  },
+  {
+    "food_name": "Cow Cart 4 Jar",
+    "filename": "cow_cart_4_jar.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7cd9a2717ch.jpg",
+    "product_url": "https://angansweets.com/products/b3af2391-4123-49d6-a7b9-f6f1eafeed78",
+    "converted_filename": "cow_cart_4_jar.webp"
+  },
+  {
+    "food_name": "Floral Luxury 2 Jar Coffer",
+    "filename": "floral_luxury_2_jar_coffer.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/0m4f3syieau.jpg",
+    "product_url": "https://angansweets.com/products/8a00646d-d860-4b16-848b-7a4f77e4d3cc",
+    "converted_filename": "floral_luxury_2_jar_coffer.webp"
+  },
+  {
+    "food_name": "Rectangular Brocade Box",
+    "filename": "rectangular_brocade_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/84f5h4xlopr.jpg",
+    "product_url": "https://angansweets.com/products/9eb57756-fd51-4fe8-adf6-c27c415ca2fc",
+    "converted_filename": "rectangular_brocade_box.webp"
+  },
+  {
+    "food_name": "3 Jar Jaipuria Box (Maroon)",
+    "filename": "3_jar_jaipuria_box_maroon.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/w24b7amgzm.jpg",
+    "product_url": "https://angansweets.com/products/27558c15-86b7-4942-9ad1-cf5b11ff902a",
+    "converted_filename": "3_jar_jaipuria_box_maroon.webp"
+  },
+  {
+    "food_name": "Square Dry Fruits Platter Golden",
+    "filename": "square_dry_fruits_platter_golden.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/xopq9b4rfai.jpg",
+    "product_url": "https://angansweets.com/products/ac6fe9cd-abcc-40cf-82ef-e3cd57ca5c85",
+    "converted_filename": "square_dry_fruits_platter_golden.webp"
+  },
+  {
+    "food_name": "Peacock Chest 4 Jar",
+    "filename": "peacock_chest_4_jar.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/r93px0kli0g.jpg",
+    "product_url": "https://angansweets.com/products/cea3c36f-758a-448d-b456-c1bae828c2fc",
+    "converted_filename": "peacock_chest_4_jar.webp"
+  },
+  {
+    "food_name": "Thali Dry Fruits(Medium)",
+    "filename": "thali_dry_fruitsmedium.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/w32ni3ubzzk.jpg",
+    "product_url": "https://angansweets.com/products/c5a2e635-4b8a-4c84-8859-2e173a3cd1b4",
+    "converted_filename": "thali_dry_fruitsmedium.webp"
+  },
+  {
+    "food_name": "4 Chamber Red Velvet Box(Diamond)",
+    "filename": "4_chamber_red_velvet_boxdiamond.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/4y1kjw86566.jpg",
+    "product_url": "https://angansweets.com/products/a45cd4f4-04b7-4997-a972-40994ebdcb76",
+    "converted_filename": "4_chamber_red_velvet_boxdiamond.webp"
+  },
+  {
+    "food_name": "Brass Elephant Trinket",
+    "filename": "brass_elephant_trinket.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/xmz0mn1h878.jpg",
+    "product_url": "https://angansweets.com/products/02380d9d-6749-4880-9a48-8c47c9d4fde3",
+    "converted_filename": "brass_elephant_trinket.webp"
+  },
+  {
+    "food_name": "Thali Dry Fruits(Large)",
+    "filename": "thali_dry_fruitslarge.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7wrvp9jvwr7.jpg",
+    "product_url": "https://angansweets.com/products/1924db55-d406-48c0-a10e-34b26b236c33",
+    "converted_filename": "thali_dry_fruitslarge.webp"
+  },
+  {
+    "food_name": "2 Jar Jaipuria Box (Navy)",
+    "filename": "2_jar_jaipuria_box_navy.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/2yfabuqf725.jpg",
+    "product_url": "https://angansweets.com/products/ff7b9aa8-2436-419d-a9e9-2b91ffc3a14d",
+    "converted_filename": "2_jar_jaipuria_box_navy.webp"
+  },
+  {
+    "food_name": "4 Chamber Golden Box",
+    "filename": "4_chamber_golden_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/h5tbfjee317.jpg",
+    "product_url": "https://angansweets.com/products/769689e1-948a-4543-9dfa-4d04f5c4a54a",
+    "converted_filename": "4_chamber_golden_box.webp"
+  },
+  {
+    "food_name": "Leather Chest Box",
+    "filename": "leather_chest_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/zu5tztm3nle.jpg",
+    "product_url": "https://angansweets.com/products/cd4671b1-d522-44b4-b251-84f02200da39",
+    "converted_filename": "leather_chest_box.webp"
+  },
+  {
+    "food_name": "5 Khana Royal Thali",
+    "filename": "5_khana_royal_thali.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/696s80pc6m9.jpg",
+    "product_url": "https://angansweets.com/products/35068e0a-f1cc-43b4-9441-a68f365821aa",
+    "converted_filename": "5_khana_royal_thali.webp"
+  },
+  {
+    "food_name": "Red Velvet 3 Jar Box",
+    "filename": "red_velvet_3_jar_box.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hw0crhmtxb.jpg",
+    "product_url": "https://angansweets.com/products/3163463f-153e-4ef0-be08-4ea306f9b525",
+    "converted_filename": "red_velvet_3_jar_box.webp"
+  },
+  {
+    "food_name": "4 Chamber Red Velvet Box(Square)",
+    "filename": "4_chamber_red_velvet_boxsquare.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/6w6ivkiue7n.jpg",
+    "product_url": "https://angansweets.com/products/bf9e8cea-944e-4195-9be8-1efa47cbfb54",
+    "converted_filename": "4_chamber_red_velvet_boxsquare.webp"
+  },
+  {
+    "food_name": "Thali Dry Fruits(Small)",
+    "filename": "thali_dry_fruitssmall.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/38qrcx105kb.jpg",
+    "product_url": "https://angansweets.com/products/83f1ab55-b59a-4670-90ec-d630fcabcae4",
+    "converted_filename": "thali_dry_fruitssmall.webp"
+  },
+  {
+    "food_name": "Chhola Chawal",
+    "filename": "chhola_chawal.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/xwfk8gjpj1.png",
+    "product_url": "https://angansweets.com/products/0bf9a9d7-cea4-4df3-a001-31cc552ef4f3",
+    "converted_filename": "chhola_chawal.webp"
+  },
+  {
+    "food_name": "Classic Combo",
+    "filename": "classic_combo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/kxfy1ncced9.png",
+    "product_url": "https://angansweets.com/products/b1e87c8a-0d03-4976-a93e-4e7c1b004cce",
+    "converted_filename": "classic_combo.webp"
+  },
+  {
+    "food_name": "Mini Meal",
+    "filename": "mini_meal.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hhhrzxmmvzi.png",
+    "product_url": "https://angansweets.com/products/f7114581-d04a-41e6-bf2a-c9aeeba6c8e8",
+    "converted_filename": "mini_meal.webp"
+  },
+  {
+    "food_name": "South Indian Combo",
+    "filename": "south_indian_combo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/66xomktqs9f.png",
+    "product_url": "https://angansweets.com/products/4b4980eb-e3e2-4571-a695-facebe26732d",
+    "converted_filename": "south_indian_combo.webp"
+  },
+  {
+    "food_name": "Super Combo",
+    "filename": "super_combo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/acull3fwaq.png",
+    "product_url": "https://angansweets.com/products/6174ba34-86c0-4863-a10c-47e0a6b3d8e8",
+    "converted_filename": "super_combo.webp"
+  },
+  {
+    "food_name": "Veg Biryani With Raita",
+    "filename": "veg_biryani_with_raita.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/rgs2vi2eaht.png",
+    "product_url": "https://angansweets.com/products/fc998562-bd1b-437e-bd82-2579c317a7c4",
+    "converted_filename": "veg_biryani_with_raita.webp"
+  },
+  {
+    "food_name": "Onion Capsicum Mushroom Pizza",
+    "filename": "onion_capsicum_mushroom_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7f5l53wow1f.png",
+    "product_url": "https://angansweets.com/products/5528c434-5200-41a8-96ff-5d468dc7cd7b",
+    "converted_filename": "onion_capsicum_mushroom_pizza.webp"
+  },
+  {
+    "food_name": "Chhola Pulao",
+    "filename": "chhola_pulao.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7c6kmka04r4.png",
+    "product_url": "https://angansweets.com/products/a1dc0ba4-8151-4717-aabd-86b5bdd3a5c5",
+    "converted_filename": "chhola_pulao.webp"
+  },
+  {
+    "food_name": "Chhola Bhatura",
+    "filename": "chhola_bhatura.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9we5q7o4int.png",
+    "product_url": "https://angansweets.com/products/1a5ce4aa-5489-4f58-913c-d6d205708cc8",
+    "converted_filename": "chhola_bhatura.webp"
+  },
+  {
+    "food_name": "Mushroom Pizza",
+    "filename": "mushroom_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/fjtr9o6wj4r.png",
+    "product_url": "https://angansweets.com/products/9c7e9019-0e4c-49cc-97d4-8b43b1498f6b",
+    "converted_filename": "mushroom_pizza.webp"
+  },
+  {
+    "food_name": "Pao Bhaji",
+    "filename": "pao_bhaji.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/azr67wy9kq.png",
+    "product_url": "https://angansweets.com/products/9bb0a318-43dd-421e-a8ce-f2a96ac69736",
+    "converted_filename": "pao_bhaji.webp"
+  },
+  {
+    "food_name": "Onion Capsicum Tomato Pizza",
+    "filename": "onion_capsicum_tomato_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/i7ei6aapyqj.png",
+    "product_url": "https://angansweets.com/products/3310a930-8d6d-4363-a4f8-31e6c9b0a5b5",
+    "converted_filename": "onion_capsicum_tomato_pizza.webp"
+  },
+  {
+    "food_name": "Tomato Pizza",
+    "filename": "tomato_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5x890wsgd57.png",
+    "product_url": "https://angansweets.com/products/43f3f9df-b43a-476d-ba9e-faf220ee4401",
+    "converted_filename": "tomato_pizza.webp"
+  },
+  {
+    "food_name": "Angan Special Pizza",
+    "filename": "angan_special_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/y0n0q3sh6ml.png",
+    "product_url": "https://angansweets.com/products/60834ccb-8a96-46de-a939-305d7db264da",
+    "converted_filename": "angan_special_pizza.webp"
+  },
+  {
+    "food_name": "Plain Cheese Pizza",
+    "filename": "plain_cheese_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/n9z9j3i3c3j.png",
+    "product_url": "https://angansweets.com/products/722d3613-ed9d-448e-87a4-5ee1dbb415db",
+    "converted_filename": "plain_cheese_pizza.webp"
+  },
+  {
+    "food_name": "Chhola Kulcha",
+    "filename": "chhola_kulcha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/bttaycu3b5p.png",
+    "product_url": "https://angansweets.com/products/67f5ebdd-dff5-4a39-8454-87516c602b14",
+    "converted_filename": "chhola_kulcha.webp"
+  },
+  {
+    "food_name": "Onion Capsicum Pizza",
+    "filename": "onion_capsicum_pizza.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/vjwqtpil4sa.png",
+    "product_url": "https://angansweets.com/products/721508c3-5ca5-4d45-82b6-47033d6b0b16",
+    "converted_filename": "onion_capsicum_pizza.webp"
+  },
+  {
+    "food_name": "Rajma Pulao",
+    "filename": "rajma_pulao.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/o3pso98ap3.png",
+    "product_url": "https://angansweets.com/products/67849c0a-1a99-464e-a1b3-c85ac1ba250b",
+    "converted_filename": "rajma_pulao.webp"
+  },
+  {
+    "food_name": "Veg Burger",
+    "filename": "veg_burger.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f2h05l4hf6t.png",
+    "product_url": "https://angansweets.com/products/99088142-b85a-42d0-b63d-ca3e6e7ac122",
+    "converted_filename": "veg_burger.webp"
+  },
+  {
+    "food_name": "Onion Masala Dosa",
+    "filename": "onion_masala_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/t86f0wtp4q.png",
+    "product_url": "https://angansweets.com/products/97e103f6-dd47-4cc4-8286-4a9dc789180c",
+    "converted_filename": "onion_masala_dosa.webp"
+  },
+  {
+    "food_name": "Onion Tomato Uttapam",
+    "filename": "onion_tomato_uttapam.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/w1z53v20jvr.png",
+    "product_url": "https://angansweets.com/products/0ff35814-3df3-4ef0-a3da-1752fed35de9",
+    "converted_filename": "onion_tomato_uttapam.webp"
+  },
+  {
+    "food_name": "Tomato Uttapam",
+    "filename": "tomato_uttapam.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/4tp9foydr3w.png",
+    "product_url": "https://angansweets.com/products/2b154439-d520-44e7-b58f-3039e3a1f2df",
+    "converted_filename": "tomato_uttapam.webp"
+  },
+  {
+    "food_name": "Idli Sambhar",
+    "filename": "idli_sambhar.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/2cv50wnqa3.png",
+    "product_url": "https://angansweets.com/products/742d2949-6a59-4f93-812d-794873ad40b5",
+    "converted_filename": "idli_sambhar.webp"
+  },
+  {
+    "food_name": "Pizza Dosa",
+    "filename": "pizza_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/rghs9o1yfx.png",
+    "product_url": "https://angansweets.com/products/5b4ce551-5a5c-4678-8e5e-f532c5f43113",
+    "converted_filename": "pizza_dosa.webp"
+  },
+  {
+    "food_name": "Rava Masala Dosa",
+    "filename": "rava_masala_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/onysab5eh4p.png",
+    "product_url": "https://angansweets.com/products/e4fd8fd3-f87b-45cc-bfe6-d2a7beefbcd4",
+    "converted_filename": "rava_masala_dosa.webp"
+  },
+  {
+    "food_name": "Vada Sambhar",
+    "filename": "vada_sambhar.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hvmacswmgp.png",
+    "product_url": "https://angansweets.com/products/ed9c5aa9-8b5a-4676-a359-4c0795baac68",
+    "converted_filename": "vada_sambhar.webp"
+  },
+  {
+    "food_name": "Angan Special Dosa",
+    "filename": "angan_special_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/afbqo0nw78.png",
+    "product_url": "https://angansweets.com/products/0c9e6bb7-a4e6-4bc3-b3bd-5ea989831dee",
+    "converted_filename": "angan_special_dosa.webp"
+  },
+  {
+    "food_name": "Paneer Dosa",
+    "filename": "paneer_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/l6pjqdvs1k.png",
+    "product_url": "https://angansweets.com/products/b2a09bfa-727f-4e65-9a97-556ac2d01e4c",
+    "converted_filename": "paneer_dosa.webp"
+  },
+  {
+    "food_name": "South Indian Platter",
+    "filename": "south_indian_platter.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/zw6h6qhsrz.png",
+    "product_url": "https://angansweets.com/products/409b3c66-8ee0-42dc-aadf-09db2475b03e",
+    "converted_filename": "south_indian_platter.webp"
+  },
+  {
+    "food_name": "Plain Dosa",
+    "filename": "plain_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/aontctogt2.png",
+    "product_url": "https://angansweets.com/products/15a50bd8-c777-434d-95a9-5d6b58834d38",
+    "converted_filename": "plain_dosa.webp"
+  },
+  {
+    "food_name": "Onion Uttapam",
+    "filename": "onion_uttapam.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/gumk6jd4r4f.png",
+    "product_url": "https://angansweets.com/products/ebd04429-491b-4b8c-adb0-a71d45d7e162",
+    "converted_filename": "onion_uttapam.webp"
+  },
+  {
+    "food_name": "Paper Plain Dosa",
+    "filename": "paper_plain_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/t1njnfv57fb.png",
+    "product_url": "https://angansweets.com/products/13b9efe0-ab4e-4226-b3cb-d04eb1ef5874",
+    "converted_filename": "paper_plain_dosa.webp"
+  },
+  {
+    "food_name": "Rawa Plain Dosa",
+    "filename": "rawa_plain_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/mw0azw4de3.png",
+    "product_url": "https://angansweets.com/products/53e74f2b-dcc6-4188-9245-c3ffe15e1752",
+    "converted_filename": "rawa_plain_dosa.webp"
+  },
+  {
+    "food_name": "Plain Uttapam",
+    "filename": "plain_uttapam.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/y3f9uwnwgdl.png",
+    "product_url": "https://angansweets.com/products/b2bc3157-990e-4b1a-aa88-f57ff9fc11bb",
+    "converted_filename": "plain_uttapam.webp"
+  },
+  {
+    "food_name": "Mixed Veg Uttapam",
+    "filename": "mixed_veg_uttapam.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/a4qzsdmjfup.png",
+    "product_url": "https://angansweets.com/products/896080dd-d50d-4fb7-9d72-8686ba4e64a4",
+    "converted_filename": "mixed_veg_uttapam.webp"
+  },
+  {
+    "food_name": "Onion Rava Dosa",
+    "filename": "onion_rava_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/96sc7qze8gp.png",
+    "product_url": "https://angansweets.com/products/c49e4931-7253-422c-b814-6680961bd4fb",
+    "converted_filename": "onion_rava_dosa.webp"
+  },
+  {
+    "food_name": "Paper Masala Dosa",
+    "filename": "paper_masala_dosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/o5k9f51w6t.png",
+    "product_url": "https://angansweets.com/products/4784121e-d962-46d5-910c-39f90f19e9dd",
+    "converted_filename": "paper_masala_dosa.webp"
+  },
+  {
+    "food_name": "Pulao",
+    "filename": "pulao.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/593l2925b0c.png",
+    "product_url": "https://angansweets.com/products/5c88864a-eeeb-43f1-acc2-2fc37355ddb3",
+    "converted_filename": "pulao.webp"
+  },
+  {
+    "food_name": "Raita",
+    "filename": "raita.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f9lmd7fhcx.png",
+    "product_url": "https://angansweets.com/products/aa27e38b-3d90-4f83-9dbf-6e45a460d80c",
+    "converted_filename": "raita.webp"
+  },
+  {
+    "food_name": "Paneer Butter Masala",
+    "filename": "paneer_butter_masala.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/vqzb3jng05.png",
+    "product_url": "https://angansweets.com/products/7df47d33-bcf7-491f-8e71-c20302a00036",
+    "converted_filename": "paneer_butter_masala.webp"
+  },
+  {
+    "food_name": "Tandoori Aloo",
+    "filename": "tandoori_aloo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/b21y5skqu6o.png",
+    "product_url": "https://angansweets.com/products/080f037d-f8d7-49d1-b1cb-9e6328302395",
+    "converted_filename": "tandoori_aloo.webp"
+  },
+  {
+    "food_name": "Shahi Paneer",
+    "filename": "shahi_paneer.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/6m2c6x98y1t.png",
+    "product_url": "https://angansweets.com/products/6a97e6c5-dde4-48e6-a635-81071868e978",
+    "converted_filename": "shahi_paneer.webp"
+  },
+  {
+    "food_name": "Chana Masala",
+    "filename": "chana_masala.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/i7v9lby55x.png",
+    "product_url": "https://angansweets.com/products/6f7c4e70-9747-4660-bb2e-5f2a0f5d1969",
+    "converted_filename": "chana_masala.webp"
+  },
+  {
+    "food_name": "Dal Makhani",
+    "filename": "dal_makhani.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/bgnfceh13yg.png",
+    "product_url": "https://angansweets.com/products/dcfa354f-e580-4fb5-be33-6dea9fc10e6c",
+    "converted_filename": "dal_makhani.webp"
+  },
+  {
+    "food_name": "Parantha Paneer combo",
+    "filename": "parantha_paneer_combo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/r8vy5fq5d6.png",
+    "product_url": "https://angansweets.com/products/0321703b-5534-4a2f-af89-1b17872790dd",
+    "converted_filename": "parantha_paneer_combo.webp"
+  },
+  {
+    "food_name": "Rajma",
+    "filename": "rajma.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/xoj87xvuam8.png",
+    "product_url": "https://angansweets.com/products/3414d527-33d9-4828-bede-1ded1ee73ff3",
+    "converted_filename": "rajma.webp"
+  },
+  {
+    "food_name": "Plain Rice",
+    "filename": "plain_rice.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/1cyvb5jy2tb.png",
+    "product_url": "https://angansweets.com/products/c733d0c0-8be5-4e4e-886e-dc3487c28dfe",
+    "converted_filename": "plain_rice.webp"
+  },
+  {
+    "food_name": "Green Salad",
+    "filename": "green_salad.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/idaqu9buaz.png",
+    "product_url": "https://angansweets.com/products/66902d7c-13dd-493a-8e75-645a69f4bfbb",
+    "converted_filename": "green_salad.webp"
+  },
+  {
+    "food_name": "Seasonal Vegetable",
+    "filename": "seasonal_vegetable.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/svl0598vnv.png",
+    "product_url": "https://angansweets.com/products/34f426ad-1d2b-4fa5-b2e8-378098b5e900",
+    "converted_filename": "seasonal_vegetable.webp"
+  },
+  {
+    "food_name": "Kadi Pakoda",
+    "filename": "kadi_pakoda.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7zia4a4dsc3.png",
+    "product_url": "https://angansweets.com/products/d6a921c6-c25f-4bf8-a318-196efe52db2d",
+    "converted_filename": "kadi_pakoda.webp"
+  },
+  {
+    "food_name": "Dal Fry",
+    "filename": "dal_fry.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/rcny0jvlmdh.png",
+    "product_url": "https://angansweets.com/products/8a9f5102-2599-4e3d-b4a5-6df2d8284f6a",
+    "converted_filename": "dal_fry.webp"
+  },
+  {
+    "food_name": "Kadhai Paneer",
+    "filename": "kadhai_paneer.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ogwa1kpr83i.png",
+    "product_url": "https://angansweets.com/products/d6a44839-5c77-4d01-a181-f0a30e4649ec",
+    "converted_filename": "kadhai_paneer.webp"
+  },
+  {
+    "food_name": "Angan Thali",
+    "filename": "angan_thali.jpg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/w5gfinz21bb.jpg",
+    "product_url": "https://angansweets.com/products/6856c236-ed6e-412c-b741-950244dc91b4",
+    "converted_filename": "angan_thali.webp"
+  },
+  {
+    "food_name": "Butter Naan",
+    "filename": "butter_naan.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/1g2ybjv23ph.png",
+    "product_url": "https://angansweets.com/products/d76cdcd9-1a0a-4d02-ae8b-e67d102b448a",
+    "converted_filename": "butter_naan.webp"
+  },
+  {
+    "food_name": "Gobi Muli Parantha",
+    "filename": "gobi_muli_parantha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/8vl9iqyywaj.png",
+    "product_url": "https://angansweets.com/products/23c92812-66fe-470c-9b9e-7084e369dd1c",
+    "converted_filename": "gobi_muli_parantha.webp"
+  },
+  {
+    "food_name": "Paneer Tikka",
+    "filename": "paneer_tikka.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/19g9e6tjp8u.png",
+    "product_url": "https://angansweets.com/products/f3095914-499c-4938-a4de-042af1d0b02f",
+    "converted_filename": "paneer_tikka.webp"
+  },
+  {
+    "food_name": "Missi Roti",
+    "filename": "missi_roti.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/37rlimvq6t3.png",
+    "product_url": "https://angansweets.com/products/e3941ae3-8de7-40f3-814a-fe4189c49e57",
+    "converted_filename": "missi_roti.webp"
+  },
+  {
+    "food_name": "Onion Kulcha",
+    "filename": "onion_kulcha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ewnpm394b8.png",
+    "product_url": "https://angansweets.com/products/e7680ddd-35a9-4615-88ec-fabb3f912585",
+    "converted_filename": "onion_kulcha.webp"
+  },
+  {
+    "food_name": "Masala Kulcha",
+    "filename": "masala_kulcha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/b90fydx4hx9.png",
+    "product_url": "https://angansweets.com/products/1f8b7e06-a04b-4de3-aac8-5ab488194181",
+    "converted_filename": "masala_kulcha.webp"
+  },
+  {
+    "food_name": "Lachha Paratha",
+    "filename": "lachha_paratha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7vgu30y0dod.png",
+    "product_url": "https://angansweets.com/products/b72ddac7-69d8-436a-afc3-d15333787ace",
+    "converted_filename": "lachha_paratha.webp"
+  },
+  {
+    "food_name": "Roti Makhani",
+    "filename": "roti_makhani.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9hna3o124g7.png",
+    "product_url": "https://angansweets.com/products/6b54e824-8731-4dec-9590-98f826754b2d",
+    "converted_filename": "roti_makhani.webp"
+  },
+  {
+    "food_name": "Roti",
+    "filename": "roti.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/v0vzz6dcmcm.png",
+    "product_url": "https://angansweets.com/products/b62d48cf-4644-4aed-b31e-12012724a31d",
+    "converted_filename": "roti.webp"
+  },
+  {
+    "food_name": "Aalu paratha",
+    "filename": "aalu_paratha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/uzi8arwaru.png",
+    "product_url": "https://angansweets.com/products/de937430-463a-414b-8cc4-ab691d378982",
+    "converted_filename": "aalu_paratha.webp"
+  },
+  {
+    "food_name": "Plain Naan",
+    "filename": "plain_naan.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ra3szyeuk4.png",
+    "product_url": "https://angansweets.com/products/1dbd7d4a-b0e3-40aa-865f-c86426455b1c",
+    "converted_filename": "plain_naan.webp"
+  },
+  {
+    "food_name": "Veg Manchurian",
+    "filename": "veg_manchurian.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/og0fn2biibo.png",
+    "product_url": "https://angansweets.com/products/791197c3-cb13-4399-8ef6-99475fc2bb51",
+    "converted_filename": "veg_manchurian.webp"
+  },
+  {
+    "food_name": "Pasta (White Sauce)",
+    "filename": "pasta_white_sauce.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/jbohs6wuhs.png",
+    "product_url": "https://angansweets.com/products/267df96b-7743-49ae-baf3-31509466ba79",
+    "converted_filename": "pasta_white_sauce.webp"
+  },
+  {
+    "food_name": "Veg Fried Rice",
+    "filename": "veg_fried_rice.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f18i4ezemav.png",
+    "product_url": "https://angansweets.com/products/88857457-aa97-4029-ba2a-9adfa3003b8d",
+    "converted_filename": "veg_fried_rice.webp"
+  },
+  {
+    "food_name": "Veg Chowmein",
+    "filename": "veg_chowmein.jpeg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ynnwdtyzdh.jpeg",
+    "product_url": "https://angansweets.com/products/21460d20-a883-4d32-85d8-7086bb9a10fe",
+    "converted_filename": "veg_chowmein.webp"
+  },
+  {
+    "food_name": "Chinese Platter",
+    "filename": "chinese_platter.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/0i5yzy6jt7tk.png",
+    "product_url": "https://angansweets.com/products/c34c2a6d-f91c-4d1f-bdd9-f525728c7a45",
+    "converted_filename": "chinese_platter.webp"
+  },
+  {
+    "food_name": "French Fries",
+    "filename": "french_fries.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9sixtqpsqzv.png",
+    "product_url": "https://angansweets.com/products/8693c5a1-4606-48f8-833a-2c2a6cac4b2b",
+    "converted_filename": "french_fries.webp"
+  },
+  {
+    "food_name": "Chilly Paneer",
+    "filename": "chilly_paneer.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/rvae9lmj8go.png",
+    "product_url": "https://angansweets.com/products/226be733-09bb-45b8-844c-d5d1ef52bee1",
+    "converted_filename": "chilly_paneer.webp"
+  },
+  {
+    "food_name": "Veg Choupsey",
+    "filename": "veg_choupsey.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/n285wje7fcd.png",
+    "product_url": "https://angansweets.com/products/251d8e41-f900-4fcb-a8f5-9944f0152890",
+    "converted_filename": "veg_choupsey.webp"
+  },
+  {
+    "food_name": "Fried Veg MoMo",
+    "filename": "fried_veg_momo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tylysli88u.png",
+    "product_url": "https://angansweets.com/products/8e3d59bc-4dbd-4aa5-8970-3be1228e3513",
+    "converted_filename": "fried_veg_momo.webp"
+  },
+  {
+    "food_name": "Spring Roll",
+    "filename": "spring_roll.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5iricifof3x.png",
+    "product_url": "https://angansweets.com/products/525062d7-f4aa-44cc-ad6d-ae59637dc9b4",
+    "converted_filename": "spring_roll.webp"
+  },
+  {
+    "food_name": "Veg MOMO",
+    "filename": "veg_momo.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9ydnl64unk.png",
+    "product_url": "https://angansweets.com/products/22b27409-4f9b-4076-8877-c6081827af0f",
+    "converted_filename": "veg_momo.webp"
+  },
+  {
+    "food_name": "Veg Cutlet",
+    "filename": "veg_cutlet.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/in65e56vlzr.png",
+    "product_url": "https://angansweets.com/products/e72432ce-b112-4cad-a9c4-6ebd6ad5637b",
+    "converted_filename": "veg_cutlet.webp"
+  },
+  {
+    "food_name": "Mix Chat",
+    "filename": "mix_chat.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ha9kadav0u.png",
+    "product_url": "https://angansweets.com/products/59cf8f86-bbf4-47f7-9716-4af19451a899",
+    "converted_filename": "mix_chat.webp"
+  },
+  {
+    "food_name": "Samosa Chat",
+    "filename": "samosa_chat.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/mc7fw3e2j8p.png",
+    "product_url": "https://angansweets.com/products/07121258-a45e-4955-934f-b6dc0492c57f",
+    "converted_filename": "samosa_chat.webp"
+  },
+  {
+    "food_name": "Papdi Chat",
+    "filename": "papdi_chat.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/dazmkhxu6m4.png",
+    "product_url": "https://angansweets.com/products/ba7722a5-f7be-44eb-9331-08fb4ca72f4d",
+    "converted_filename": "papdi_chat.webp"
+  },
+  {
+    "food_name": "Meetha Chatpate Chat",
+    "filename": "meetha_chatpate_chat.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/l3qpx8nmr4k.png",
+    "product_url": "https://angansweets.com/products/9fae7a3c-5e0b-415f-86cb-f20e581e331b",
+    "converted_filename": "meetha_chatpate_chat.webp"
+  },
+  {
+    "food_name": "Lachha Tokri",
+    "filename": "lachha_tokri.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/2gkev0uniwr.png",
+    "product_url": "https://angansweets.com/products/ae787d3e-776c-428c-8697-f80fbed172fb",
+    "converted_filename": "lachha_tokri.webp"
+  },
+  {
+    "food_name": "Dahi Bhalla",
+    "filename": "dahi_bhalla.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/nj47onav25r.png",
+    "product_url": "https://angansweets.com/products/04369986-c35e-4913-959f-245aad3e79b6",
+    "converted_filename": "dahi_bhalla.webp"
+  },
+  {
+    "food_name": "Rajkachori",
+    "filename": "rajkachori.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/feysl87c9lh.png",
+    "product_url": "https://angansweets.com/products/6b5c8b7a-47e2-4007-bca7-d7a44116fcd0",
+    "converted_filename": "rajkachori.webp"
+  },
+  {
+    "food_name": "Pani Puri",
+    "filename": "pani_puri.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/aigsvyri8mj.png",
+    "product_url": "https://angansweets.com/products/1d7c4bd7-0083-4dae-accb-77db7a9fd791",
+    "converted_filename": "pani_puri.webp"
+  },
+  {
+    "food_name": "Bhel Puri",
+    "filename": "bhel_puri.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/cr1t3owc3jv.png",
+    "product_url": "https://angansweets.com/products/96aa86f5-1c97-48d9-b035-46c042d1969b",
+    "converted_filename": "bhel_puri.webp"
+  },
+  {
+    "food_name": "Bhalla Papdi",
+    "filename": "bhalla_papdi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/u6azei5lh7n.png",
+    "product_url": "https://angansweets.com/products/d572e8a6-8d76-4903-b468-d2926e0ca2d7",
+    "converted_filename": "bhalla_papdi.webp"
+  },
+  {
+    "food_name": "Aloo Tikki",
+    "filename": "aloo_tikki.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/69o737c5nu2.png",
+    "product_url": "https://angansweets.com/products/32b0a229-a2ab-445a-9699-e5197fb618c9",
+    "converted_filename": "aloo_tikki.webp"
+  },
+  {
+    "food_name": "Kachori Chat",
+    "filename": "kachori_chat.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/8w0x3dgm6gm.png",
+    "product_url": "https://angansweets.com/products/8f1c2566-fd48-4d57-8632-722b0ca706a1",
+    "converted_filename": "kachori_chat.webp"
+  },
+  {
+    "food_name": "Ghupchup Chat",
+    "filename": "ghupchup_chat.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ip1zughktln.png",
+    "product_url": "https://angansweets.com/products/488e9f7c-b3ae-4b81-b28f-579fb4833adf",
+    "converted_filename": "ghupchup_chat.webp"
+  },
+  {
+    "food_name": "Pyaz Kachori",
+    "filename": "pyaz_kachori.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/nrndnobp4jo.png",
+    "product_url": "https://angansweets.com/products/88fcbcac-5c29-4a66-83be-76f1f7a852c5",
+    "converted_filename": "pyaz_kachori.webp"
+  },
+  {
+    "food_name": "Dal Kachori",
+    "filename": "dal_kachori.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/x0qbv2h2bjm.png",
+    "product_url": "https://angansweets.com/products/a704d17c-e237-455c-90b4-52f3338af734",
+    "converted_filename": "dal_kachori.webp"
+  },
+  {
+    "food_name": "Plain Dhokla",
+    "filename": "plain_dhokla.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hj2zpz8nqaf.png",
+    "product_url": "https://angansweets.com/products/67016465-b6e5-4404-b2b6-2aa2ea54d5be",
+    "converted_filename": "plain_dhokla.webp"
+  },
+  {
+    "food_name": "Samosa",
+    "filename": "samosa.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/w6qickqd429.png",
+    "product_url": "https://angansweets.com/products/41abca71-7f1c-4a9d-9f30-8c5f74864744",
+    "converted_filename": "samosa.webp"
+  },
+  {
+    "food_name": "Vada Pav",
+    "filename": "vada_pav.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f1gzu1oekfk.png",
+    "product_url": "https://angansweets.com/products/778a6c5b-a63a-4bb7-b294-ba83a5ef1ea2",
+    "converted_filename": "vada_pav.webp"
+  },
+  {
+    "food_name": "Namak Para 400gm",
+    "filename": "namak_para_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/c3qg92s3j6.png",
+    "product_url": "https://angansweets.com/products/ee42fc98-c601-4dcf-83cc-0af6c0440201",
+    "converted_filename": "namak_para_400gm.webp"
+  },
+  {
+    "food_name": "Maida Matar 400gm",
+    "filename": "maida_matar_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ghwb05m7tn.png",
+    "product_url": "https://angansweets.com/products/3197047f-c700-4bca-a8a4-ff501bcb15dc",
+    "converted_filename": "maida_matar_400gm.webp"
+  },
+  {
+    "food_name": "Besan Papdi 400gm",
+    "filename": "besan_papdi_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/nkn2s207qv.png",
+    "product_url": "https://angansweets.com/products/5889702b-d787-41a7-83c5-6a8d362bbc20",
+    "converted_filename": "besan_papdi_400gm.webp"
+  },
+  {
+    "food_name": "Fafda 200gm",
+    "filename": "fafda_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/lioli779z0g.png",
+    "product_url": "https://angansweets.com/products/197b23c7-0f86-48d0-8ed6-a64ff05ff233",
+    "converted_filename": "fafda_200gm.webp"
+  },
+  {
+    "food_name": "Lal Bhujiya 400gm",
+    "filename": "lal_bhujiya_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/mo40me5gq8.png",
+    "product_url": "https://angansweets.com/products/edc45a08-4e2d-40f5-954b-0e93da57b912",
+    "converted_filename": "lal_bhujiya_400gm.webp"
+  },
+  {
+    "food_name": "Mini Samosa 300gm",
+    "filename": "mini_samosa_300gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/c99x7k78bd.png",
+    "product_url": "https://angansweets.com/products/f4ff066a-4afb-4841-80e0-7a680e99a9de",
+    "converted_filename": "mini_samosa_300gm.webp"
+  },
+  {
+    "food_name": "Plain Bhujiya 400gm",
+    "filename": "plain_bhujiya_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/pb0ddxnj4rb.png",
+    "product_url": "https://angansweets.com/products/7ca4d025-e8d2-4fe0-a1d4-6f4252e59327",
+    "converted_filename": "plain_bhujiya_400gm.webp"
+  },
+  {
+    "food_name": "Badi Mathi 300gm",
+    "filename": "badi_mathi_300gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/p22lhax1f2n.png",
+    "product_url": "https://angansweets.com/products/f6719500-444c-4a93-8b36-6dd650711c55",
+    "converted_filename": "badi_mathi_300gm.webp"
+  },
+  {
+    "food_name": "Trikoni Mathi",
+    "filename": "trikoni_mathi.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/0d6l59qsal2p.png",
+    "product_url": "https://angansweets.com/products/83e4de04-91b6-448b-bba3-ac99948ceb0a",
+    "converted_filename": "trikoni_mathi.webp"
+  },
+  {
+    "food_name": "Furandana 400gm",
+    "filename": "furandana_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/qlk8fx80ll.png",
+    "product_url": "https://angansweets.com/products/7ca2931b-6c99-4140-a496-e3076dd80804",
+    "converted_filename": "furandana_400gm.webp"
+  },
+  {
+    "food_name": "Methi Mathi 400gm",
+    "filename": "methi_mathi_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/m8ng3lufvz.png",
+    "product_url": "https://angansweets.com/products/db9fcb29-f8a8-484b-b46f-d6ddadb61007",
+    "converted_filename": "methi_mathi_400gm.webp"
+  },
+  {
+    "food_name": "Besan Gathiya 400gm",
+    "filename": "besan_gathiya_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/pfxpwxcijno.png",
+    "product_url": "https://angansweets.com/products/cb38f976-26e7-4957-b2c9-be9ddd9dd8e8",
+    "converted_filename": "besan_gathiya_400gm.webp"
+  },
+  {
+    "food_name": "Jeera Namkeen 400gm",
+    "filename": "jeera_namkeen_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hsoxilaulv.png",
+    "product_url": "https://angansweets.com/products/6646a810-8589-4b4f-bbfc-c59ad544a76e",
+    "converted_filename": "jeera_namkeen_400gm.webp"
+  },
+  {
+    "food_name": "Paneer Kulcha",
+    "filename": "paneer_kulcha.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/eirah7sd33w.png",
+    "product_url": "https://angansweets.com/products/26601c35-844f-4efb-9d99-4ab1866ce16f",
+    "converted_filename": "paneer_kulcha.webp"
+  },
+  {
+    "food_name": "Marori 250gm",
+    "filename": "marori_250gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/2wvwnl404cf.png",
+    "product_url": "https://angansweets.com/products/0ff17f24-d57f-4139-8889-062236e312e4",
+    "converted_filename": "marori_250gm.webp"
+  },
+  {
+    "food_name": "Kulcha 2 pcs",
+    "filename": "kulcha_2_pcs.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/wjjzw6likk.png",
+    "product_url": "https://angansweets.com/products/1e8472ec-33a9-4880-9ec0-46e9c96f140a",
+    "converted_filename": "kulcha_2_pcs.webp"
+  },
+  {
+    "food_name": "Bakery fen 11pc",
+    "filename": "bakery_fen_11pc.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/i30tivbeosm.png",
+    "product_url": "https://angansweets.com/products/90515443-5567-4fcb-a41c-ceb17f59c7e9",
+    "converted_filename": "bakery_fen_11pc.webp"
+  },
+  {
+    "food_name": "Burger Bun 2pcs",
+    "filename": "burger_bun_2pcs.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/oqz5h4olkb.png",
+    "product_url": "https://angansweets.com/products/df6f8ad7-4b90-437e-8100-1fdf18f345fe",
+    "converted_filename": "burger_bun_2pcs.webp"
+  },
+  {
+    "food_name": "Baby French Heart 200gm",
+    "filename": "baby_french_heart_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/nn0e1szudv.png",
+    "product_url": "https://angansweets.com/products/404f5ade-29da-401c-adc4-a63c4a3a06fb",
+    "converted_filename": "baby_french_heart_200gm.webp"
+  },
+  {
+    "food_name": "Brown Bread 400gm",
+    "filename": "brown_bread_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/q60egzbtpe.png",
+    "product_url": "https://angansweets.com/products/b8354b3c-62e7-4783-ac96-73b48976d2df",
+    "converted_filename": "brown_bread_400gm.webp"
+  },
+  {
+    "food_name": "Chocolate Marble Cookies 200gm",
+    "filename": "chocolate_marble_cookies_200gm.jpeg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tookvijs2j.jpeg",
+    "product_url": "https://angansweets.com/products/1cace38e-fd7f-4fd1-9e1d-78c8fcaa520a",
+    "converted_filename": "chocolate_marble_cookies_200gm.webp"
+  },
+  {
+    "food_name": "Veg Patties",
+    "filename": "veg_patties.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/eo8v3utmaa9.png",
+    "product_url": "https://angansweets.com/products/23042e02-18fe-4333-9430-28bc577157ff",
+    "converted_filename": "veg_patties.webp"
+  },
+  {
+    "food_name": "Black Forest Pastry",
+    "filename": "black_forest_pastry.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ji69d5vxl1b.png",
+    "product_url": "https://angansweets.com/products/7816732d-41c4-4c32-bdd6-84ece767811d",
+    "converted_filename": "black_forest_pastry.webp"
+  },
+  {
+    "food_name": "Pav Bun 2pcs",
+    "filename": "pav_bun_2pcs.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/pgva57uth18.png",
+    "product_url": "https://angansweets.com/products/44860718-22fc-4651-816b-188515492905",
+    "converted_filename": "pav_bun_2pcs.webp"
+  },
+  {
+    "food_name": "Cream Donut",
+    "filename": "cream_donut.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/gc9162kynk8.png",
+    "product_url": "https://angansweets.com/products/a29acaad-33db-4822-a8e3-4a3886f0bbbb",
+    "converted_filename": "cream_donut.webp"
+  },
+  {
+    "food_name": "Kaju Pista Cookies 200gm",
+    "filename": "kaju_pista_cookies_200gm.jpeg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/422dnpb1olh.jpeg",
+    "product_url": "https://angansweets.com/products/bd547f3c-534c-4dc6-88cd-75002d125fd5",
+    "converted_filename": "kaju_pista_cookies_200gm.webp"
+  },
+  {
+    "food_name": "Choco Chips Cookies 200gm",
+    "filename": "choco_chips_cookies_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f37k9quvi9q.png",
+    "product_url": "https://angansweets.com/products/c9185423-4ac2-471b-ab49-8e1a864dfd12",
+    "converted_filename": "choco_chips_cookies_200gm.webp"
+  },
+  {
+    "food_name": "Milk Bread 400gm",
+    "filename": "milk_bread_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/cgo9zj1mmyl.png",
+    "product_url": "https://angansweets.com/products/7ef4b484-1cda-4a9b-81d3-7225b9092c3f",
+    "converted_filename": "milk_bread_400gm.webp"
+  },
+  {
+    "food_name": "Jeera Cookies 200gm",
+    "filename": "jeera_cookies_200gm.jpeg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/1zkvez4766q.jpeg",
+    "product_url": "https://angansweets.com/products/3b438d97-754b-41dd-9ad8-fb085308916a",
+    "converted_filename": "jeera_cookies_200gm.webp"
+  },
+  {
+    "food_name": "Multigrain Bread 400gm",
+    "filename": "multigrain_bread_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/cjxu21dvq7u.png",
+    "product_url": "https://angansweets.com/products/43699b73-f87a-4cf0-be06-49b7107a38dc",
+    "converted_filename": "multigrain_bread_400gm.webp"
+  },
+  {
+    "food_name": "Cream roll",
+    "filename": "cream_roll.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/hldyqledfl8.png",
+    "product_url": "https://angansweets.com/products/ac5cfa5c-7f2f-47ba-81e2-d9c066ca34be",
+    "converted_filename": "cream_roll.webp"
+  },
+  {
+    "food_name": "Ajwain Cookies 200gm",
+    "filename": "ajwain_cookies_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/e362fv3ixtu.png",
+    "product_url": "https://angansweets.com/products/4cab8d73-2b53-49c5-9ab0-d4f5efda839e",
+    "converted_filename": "ajwain_cookies_200gm.webp"
+  },
+  {
+    "food_name": "White Forest Pastry",
+    "filename": "white_forest_pastry.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/wp5qq0ytbg.png",
+    "product_url": "https://angansweets.com/products/7b90ac5b-bd47-41bc-a80c-df122849e11e",
+    "converted_filename": "white_forest_pastry.webp"
+  },
+  {
+    "food_name": "Aata Patti Cookies 200gm",
+    "filename": "aata_patti_cookies_200gm.jpeg",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ht6wry3qijn.jpeg",
+    "product_url": "https://angansweets.com/products/d39f7d84-c8a9-4f45-968b-641a6acbf77a",
+    "converted_filename": "aata_patti_cookies_200gm.webp"
+  },
+  {
+    "food_name": "Truffle Chocolate Pastry",
+    "filename": "truffle_chocolate_pastry.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ivg5psbmuer.png",
+    "product_url": "https://angansweets.com/products/164cd7c1-5e10-48ca-aca1-ce4e76bdc63d",
+    "converted_filename": "truffle_chocolate_pastry.webp"
+  },
+  {
+    "food_name": "Plain Donut",
+    "filename": "plain_donut.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/kfcavaqz5r.png",
+    "product_url": "https://angansweets.com/products/1948f444-a044-4019-aa8b-2792a3688801",
+    "converted_filename": "plain_donut.webp"
+  },
+  {
+    "food_name": "Fruit Muffins 4pc",
+    "filename": "fruit_muffins_4pc.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/nhs97jznf.png",
+    "product_url": "https://angansweets.com/products/971bd56e-c0b9-4bb3-85e8-93139b73c6d2",
+    "converted_filename": "fruit_muffins_4pc.webp"
+  },
+  {
+    "food_name": "Butterscotch",
+    "filename": "butterscotch.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/lc9sli15zhl.png",
+    "product_url": "https://angansweets.com/products/4c32c9b1-0fe7-49fe-bf89-68f622ced91e",
+    "converted_filename": "butterscotch.webp"
+  },
+  {
+    "food_name": "Paneer Patties",
+    "filename": "paneer_patties.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/5b3s6m5l1mp.png",
+    "product_url": "https://angansweets.com/products/fbb799fd-0b55-4c22-957c-70b87f617ba8",
+    "converted_filename": "paneer_patties.webp"
+  },
+  {
+    "food_name": "Pineapple Pastry",
+    "filename": "pineapple_pastry.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/9jkfbqjnnek.png",
+    "product_url": "https://angansweets.com/products/9c304a12-20eb-4352-93c2-2e2492788b14",
+    "converted_filename": "pineapple_pastry.webp"
+  },
+  {
+    "food_name": "Veg Roll",
+    "filename": "veg_roll.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/3z7siqjinuv.png",
+    "product_url": "https://angansweets.com/products/7a36d073-e40f-42c2-b6f5-d583991895bd",
+    "converted_filename": "veg_roll.webp"
+  },
+  {
+    "food_name": "Jam Pista Cookies 200gm",
+    "filename": "jam_pista_cookies_200gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/03v3173vxgfu.png",
+    "product_url": "https://angansweets.com/products/f3314c92-80b0-416d-8761-238fcbb1b7c4",
+    "converted_filename": "jam_pista_cookies_200gm.webp"
+  },
+  {
+    "food_name": "Plain Puff 250gm",
+    "filename": "plain_puff_250gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ro42tslig6d.png",
+    "product_url": "https://angansweets.com/products/09822760-1253-4c06-b0b9-1f3ed67e8401",
+    "converted_filename": "plain_puff_250gm.webp"
+  },
+  {
+    "food_name": "Tea Toast 170gm",
+    "filename": "tea_toast_170gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/x6g06ziyskq.png",
+    "product_url": "https://angansweets.com/products/5176462c-322f-4401-b04a-a8f97017118d",
+    "converted_filename": "tea_toast_170gm.webp"
+  },
+  {
+    "food_name": "Wheat Bread 400gm",
+    "filename": "wheat_bread_400gm.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/tuew0u5vgf.png",
+    "product_url": "https://angansweets.com/products/9af2a746-9c5d-4208-b86b-ee651357029f",
+    "converted_filename": "wheat_bread_400gm.webp"
+  },
+  {
+    "food_name": "Chocolate Donut",
+    "filename": "chocolate_donut.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/wm0om1ibnhb.png",
+    "product_url": "https://angansweets.com/products/a7a1bb2c-66e6-4707-84c6-5a3f3d0dcf6d",
+    "converted_filename": "chocolate_donut.webp"
+  },
+  {
+    "food_name": "Black Forest",
+    "filename": "black_forest.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/ctvbx43q9q.png",
+    "product_url": "https://angansweets.com/products/06dd1102-d9c7-4315-bd2a-a1ccd4dd4baa",
+    "converted_filename": "black_forest.webp"
+  },
+  {
+    "food_name": "BlackBerry Cake",
+    "filename": "blackberry_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/r5njt1hpjl.png",
+    "product_url": "https://angansweets.com/products/acb229cb-c387-4731-bb11-15052c121c57",
+    "converted_filename": "blackberry_cake.webp"
+  },
+  {
+    "food_name": "Truffle Chocolate",
+    "filename": "truffle_chocolate.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/6wfxiqpz18i.png",
+    "product_url": "https://angansweets.com/products/402fa491-dc81-4fff-894d-ca76b2edf2bb",
+    "converted_filename": "truffle_chocolate.webp"
+  },
+  {
+    "food_name": "Strawberry Cake",
+    "filename": "strawberry_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f7bzz9tth4t.png",
+    "product_url": "https://angansweets.com/products/3191918b-d93f-4bac-b480-82daec337900",
+    "converted_filename": "strawberry_cake.webp"
+  },
+  {
+    "food_name": "Vanilla Cake",
+    "filename": "vanilla_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/cfh11jxwk3.png",
+    "product_url": "https://angansweets.com/products/6c147e8f-f57d-44c4-a567-7bd5e860793f",
+    "converted_filename": "vanilla_cake.webp"
+  },
+  {
+    "food_name": "Pineapple Cake",
+    "filename": "pineapple_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/f70qi2zefh.png",
+    "product_url": "https://angansweets.com/products/401b7a05-5b64-4534-a04c-816f454b1dc9",
+    "converted_filename": "pineapple_cake.webp"
+  },
+  {
+    "food_name": "Butterscotch",
+    "filename": "butterscotch.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/kayhbogwy7.png",
+    "product_url": "https://angansweets.com/products/29c7583a-edb4-4d12-a620-bdc0db651316",
+    "converted_filename": "butterscotch.webp"
+  },
+  {
+    "food_name": "White Forest Cake",
+    "filename": "white_forest_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/zz1jinbv8y.png",
+    "product_url": "https://angansweets.com/products/ea5259d3-2dd3-42d7-9c32-0bd56101f13d",
+    "converted_filename": "white_forest_cake.webp"
+  },
+  {
+    "food_name": "Mango Cake",
+    "filename": "mango_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/6biqe48v04r.png",
+    "product_url": "https://angansweets.com/products/e54f1868-e2a4-40b1-b2a1-b1c99080f8e5",
+    "converted_filename": "mango_cake.webp"
+  },
+  {
+    "food_name": "Rasmalai Cake",
+    "filename": "rasmalai_cake.png",
+    "original_url": "https://wesrjswcgrorgskfwpbp.supabase.co/storage/v1/object/public/product-images/products/7h4tkisim7h.png",
+    "product_url": "https://angansweets.com/products/e39f8c97-c7c4-4977-b716-f328ea70d7f4",
+    "converted_filename": "rasmalai_cake.webp"
+  }
+]
